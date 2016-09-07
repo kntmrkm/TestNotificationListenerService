@@ -10,7 +10,7 @@ import android.util.Log;
  */
 @TargetApi(18)
 public class MyNotificationListenerService extends NotificationListenerService {
-    private static final String TAG = "MyNotificationA";
+    private static final String TAG = "MyNotificationTestA";
 
     @TargetApi(18)
     @Override
